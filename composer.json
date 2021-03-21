@@ -1,0 +1,12 @@
+{
+    "name": "sunflowerbiz/test",
+    "description": "Sunflowerbiz Test ",
+    "type": "sunflowerbiz-test",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+    }
+}
